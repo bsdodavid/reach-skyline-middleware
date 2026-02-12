@@ -22,7 +22,20 @@ Reach Skyline Middleware is a Node.js-based backend service that handles user fo
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
+git clone https://github.com/bsdodavid/reach-skyline-middleware.git
+cd reach-skyline-middleware
 npm install
+
+#run the app
+node app.ts
+
+##frontend application installation
+1. Clone the repository
+
+```bash
+git clone https://github.com/bsdodavid/reach-skyline-app.git
+cd reach-skyline-app
+npm install
+
+#run the app
 npm run dev
